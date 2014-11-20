@@ -1,0 +1,4 @@
+manifesto
+=========
+
+The CJ Manifesto
